@@ -19,3 +19,4 @@
 const Greeter = require('./greeter');
 let greeter = new Greeter('Nico');
 console.log(greeter.greet());
+
